@@ -1,3 +1,4 @@
+# Exercise4_Ariya_P
 # Input from user #
 print("-- Sophomore's Score Semester 1 --\nEnter your score respectively:")
 foundEng = input("Foundation English: ")
