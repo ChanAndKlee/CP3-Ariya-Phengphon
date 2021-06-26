@@ -12,7 +12,7 @@ else:
 # [1]. Concatenate each digit except the first digit.
 
     firstChar = username[0]
-    if firstChar.isupper() == False:
+    if not firstChar.isupper():
         firstChar = firstChar.upper()
 
     newStr = ""
