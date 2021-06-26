@@ -100,10 +100,12 @@ else:
                 if checkMember == "1":
                     final_price = total_PR - ((10/100)*total_PR)
                     print("Final Price:",final_price)
+                    countPros = 3
                     break
-                elif checkMember == "2":
+                elif checkMember == "0":
                     final_price = total_PR
                     print("Final Price:", final_price)
+                    countPros = 3
                     break
     if countPros == 3:
         print("")
