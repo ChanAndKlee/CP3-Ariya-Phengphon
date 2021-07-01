@@ -10,7 +10,7 @@ print(x,"/",y,"=",x/y)
 
 """
 !! Beware of ... !!
-- (+) can't use with two different data types like int and str
+- (+) can't sfuse with two different data types like int and str
 ex: x = "1"
     y = 5
     z = x + y
