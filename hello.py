@@ -31,3 +31,5 @@ print(textFormatted.center(20,"="))     # User 20 places for all (text included)
 print(len(name))                        # Count characters
 """
 
+planets = ["Earth", "Mars", "Saturn", "Jupiter"]
+print(planets[-4])
