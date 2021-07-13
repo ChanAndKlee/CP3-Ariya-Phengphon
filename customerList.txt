@@ -1,0 +1,7 @@
+Num, Name, Age, Interested In
+0, John, 45, Technology
+1, Marie, 30, Kitchen Stuff
+2, Anne, 25, Beauty/Cosmetics
+3, Max, 18, Stationery
+4, Lily, 52, Health & Mental
+5, Michael, 38, Electricity Circuit
