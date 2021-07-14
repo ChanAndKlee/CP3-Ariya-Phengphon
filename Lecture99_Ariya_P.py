@@ -4,7 +4,6 @@ main = Tk()
 main.geometry('600x180')
 def leftClickButton(event):
     bmi = float(weight_entry.get())/math.pow(float(height_entry.get())/100,2)
-    print(bmi)
     ans_label.configure(text=bmi)   # display on screen, replace text to new text
     # Criteria BMI
     if bmi < 18.50:
